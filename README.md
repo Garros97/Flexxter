@@ -1,6 +1,6 @@
 # Flexxter
 Task for Working Student Backend: Garros Sado
 
-Requirements
-    php server
-    sql server
+Requirements:
+    - php server
+    - sql server
